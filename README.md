@@ -1,6 +1,6 @@
 # Mô tả
 🤟🏻🤟🏻🤟🏻 Yeah vào thứ 6 ngày 11 chứ k phải 13 nhé 👻, sau khi hoàn thành công việc được giao ở cty còn chút thời gian buổi chiều mình làm nhẹ một bài HackTheBox, như bạn đã biết và tìm kiếm về nó thì đúng rồi bài HTB này có tên là Usage.
-![[Screenshot 2024-10-14 at 11.42.38.png]]
+![Screenshot](Screenshot 2024-10-14 at 11.42.38.png)
 Đọc sơ về thông tin machine tôi biết được rằng machine này là một linux server và đang deploy một web site blog có tồn tại lỗ hổng SQL Injection. Và còn nhiều điều thú vị khác như hình bên dưới.
 ![[Screenshot 2024-10-11 at 16.19.44.png]]
 # Attack
